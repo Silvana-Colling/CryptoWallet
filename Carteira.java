@@ -8,6 +8,6 @@ public class Carteira {
     }
 
     public void depositar(double qtde){
-        this.saldoBitcoin 
+        this.saldoBitcoin += qtde;
     }
 }
